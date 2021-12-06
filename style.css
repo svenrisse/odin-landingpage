@@ -94,6 +94,7 @@ img {
     justify-content: center;
     align-items: center;
     text-align: center;
+    padding-bottom: 10px;
 }
 
 .exone {
@@ -199,6 +200,15 @@ img {
     border-radius: 8px;
     color: whitesmoke;
     
+}
+
+/* Footer */
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
 }
 
 
