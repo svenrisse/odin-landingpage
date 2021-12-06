@@ -56,4 +56,75 @@ li {
 button {
     padding: 10px;
     margin: 10px;
+    background-color: #3882F6;
+    border-radius: 8px;
+    color: whitesmoke;   
+}
+
+.rightintro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Information */
+
+.information {
+    background-color: whitesmoke;
+    color: black;
+}
+
+.infoheader {
+    text-align: center;
+    padding: 25px;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+}
+img {
+    
+    height: 150px;
+    width: 150px;
+    border: 2px solid #3882F6;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+.examples {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.exone {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+    margin-left: 500px;
+    margin-right: 50px;
+}
+.extwo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.exthree {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.exfour {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+    margin-left: 50px;
+    margin-right: 500px;
 }
