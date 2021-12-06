@@ -29,7 +29,7 @@ li {
 .introduction {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
     margin: 30px;
 }
 
